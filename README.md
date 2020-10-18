@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning DevOps particulary CI/CD deployment with docker containers in kubernetes clusters alongside mobile development using React Native/Flutter and serverless technologies
 - 👯 I’m looking to collaborate and contribute to open source
 - 💬 Ask me about  Python | JS | M/P-E-R/A-N & M/L/W-AMP | Mentorship |
-- 📫 How to reach me: [My Page](koitoror.ml)
+- 📫 How to reach me: [My Contact Page](http://www.koitoror.ml)
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact: i'M also experienced and competent in Computer Hardware.
 
